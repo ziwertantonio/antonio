@@ -1,4 +1,13 @@
 .cabecalho{
-     backgroud-color:blue:
+    backgroud-color:
 }
 
+.principal{
+     background-color: pink;
+     color: yellow;
+}
+ 
+.rodape{
+     background-color: whrite;
+     text-align: Center;
+} 
