@@ -1,5 +1,5 @@
 .cabecalho{
-    backgroud-color:
+    backgroud-color:rbg ( 99, 241, 194);
 }
 
 .principal{
