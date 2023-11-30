@@ -1,5 +1,6 @@
 .cabecalho{
     border: 3px;
     border style: dashed;
-     
+    border-color:blue;
+    backgroud-color; 
 }
