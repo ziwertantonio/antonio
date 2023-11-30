@@ -1,13 +1,5 @@
 .cabecalho{
-    backgroud-color:rbg ( 99, 241, 194);
-}
-
-.principal{
-     background-color: pink;
-     color: yellow;
-}
- 
-.rodape{
-     background-color: whrite;
-     text-align: Center;
+    border: 3px;
+    border style: dashed;
+     
 }
